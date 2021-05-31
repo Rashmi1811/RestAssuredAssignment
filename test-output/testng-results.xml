@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="4927" started-at="2021-05-31T10:24:09Z" finished-at="2021-05-31T10:24:14Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="4927" started-at="2021-05-31T10:24:09Z" finished-at="2021-05-31T10:24:14Z">
+      <class name="IBM.RestAssured_TestCase1.testCase1">
+        <test-method status="PASS" signature="util(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:IBM.RestAssured_TestCase1.testCase1@7d9d1a19]" name="util" duration-ms="3289" started-at="2021-05-31T10:24:10Z" data-provider="utility" finished-at="2021-05-31T10:24:14Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[rootbodyName]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[rootbodyStatus]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Categoryname]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[tagname]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[photURLelement1]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[photURLelement2]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- util -->
+        <test-method status="PASS" signature="util(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:IBM.RestAssured_TestCase1.testCase1@7d9d1a19]" name="util" duration-ms="58" started-at="2021-05-31T10:24:14Z" data-provider="utility" finished-at="2021-05-31T10:24:14Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Dog]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[available]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[pug]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[4months]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[first photo]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[2 monthold photo]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- util -->
+      </class> <!-- IBM.RestAssured_TestCase1.testCase1 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
